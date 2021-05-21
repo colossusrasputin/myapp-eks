@@ -2,9 +2,9 @@ version: 0.2
 
 env:
   variables:
-    AWS_ACCOUNT_ID: 391378411314 
-    IMAGE_REPO_NAME: hello-protos
-    EKS_CLUSTER: hello-protos
+    AWS_ACCOUNT_ID: 755412197366
+    IMAGE_REPO_NAME: hello-terra-colossus
+    EKS_CLUSTER: hello-terra-colossus-dev
 
 phases: 
   install: 
