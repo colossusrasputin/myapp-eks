@@ -4,7 +4,7 @@ env:
   variables:
     AWS_ACCOUNT_ID: 755412197366
     IMAGE_REPO_NAME: hello-terra-colossus
-    EKS_CLUSTER: hello-terra-colossus-dev
+    EKS_CLUSTER: hello-terra-colossus
 
 phases: 
   install: 
